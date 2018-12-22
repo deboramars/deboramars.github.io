@@ -22,7 +22,7 @@ export default App =>
         </a>
       </li>
       <li className = "container__content_icons__twitter">
-      <a className = "container__content_icons__github__link" href="#" target="_blank">
+      <a className = "container__content_icons__github__link" target="_blank">
       <img src ={twitter}></img>
       </a>
       </li>
